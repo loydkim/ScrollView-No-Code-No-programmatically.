@@ -13,6 +13,6 @@ Develop environment.
 You can watch how to make it in my youtube channel and blog !
 
 - Youtube link : https://youtu.be/AQlkLYa-DTo
-- Blog post link : 
+- Blog post link : http://loydlab.blogspot.com/2018/09/swift-4-scrollview-no-code-no.html
 
 Thank you :)
